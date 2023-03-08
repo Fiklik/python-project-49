@@ -4,7 +4,9 @@
 ### Examples
 
 Brain even game
+
 [![asciicast](https://asciinema.org/a/RXyq0yKVzJo0LIA6Yy1Go4GQS.svg)](https://asciinema.org/a/RXyq0yKVzJo0LIA6Yy1Go4GQS)
 
 Brain calc game
+
 [![asciicast](https://asciinema.org/a/gANXMyY8CeuZBwcqCWXicJdIw.svg)](https://asciinema.org/a/gANXMyY8CeuZBwcqCWXicJdIw)
