@@ -3,3 +3,4 @@ dist/
 .Makefile.swp
 __pycache__
 .gitignore.swp
+*.py.swp
