@@ -5,7 +5,6 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/6c416cf85633700b8585/maintainability)](https://codeclimate.com/github/Fiklik/python-project-49/maintainability)
 
 ### Examples
-
 Brain even game
 
 [![asciicast](https://asciinema.org/a/RXyq0yKVzJo0LIA6Yy1Go4GQS.svg)](https://asciinema.org/a/RXyq0yKVzJo0LIA6Yy1Go4GQS)
@@ -25,3 +24,4 @@ Brain progression game
 Brain prime game
 
 [![asciicast](https://asciinema.org/a/i6yHbSfKYsGO4aJzsmUhByjqm.svg)](https://asciinema.org/a/i6yHbSfKYsGO4aJzsmUhByjqm)
+
