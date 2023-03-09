@@ -25,7 +25,7 @@ def start_game(name_of_the_game, player_name):
             correct_answer_count += 1
         else:
             return None
-    
+
     print(f'Congratulations, {player_name}!')
 
 

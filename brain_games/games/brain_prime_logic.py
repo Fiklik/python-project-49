@@ -4,7 +4,7 @@ from . import engine
 
 def is_prime(num):
     dividers_count = 0
-    
+
     for i in range(1, num + 1):
         if num % i == 0:
             dividers_count += 1

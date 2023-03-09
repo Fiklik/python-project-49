@@ -7,12 +7,12 @@ def progression(pl_name):
     progression_len = randint(5, 10)
     progression_step = randint(1, 10)
     progression_list = [progression_start]
-    random_index = randint(0, progression_len -1)
+    random_index = randint(0, progression_len - 1)
 
     for i in range(1, progression_len):
         progression_list.append(progression_list[i - 1] + progression_step)
 
-    right_answer = str(progression_list[random_index]) 
+    right_answer = str(progression_list[random_index])
     progression_list[random_index] = '..'
 
     progression_output = str(progression_list[0])
