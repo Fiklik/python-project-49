@@ -23,6 +23,6 @@ def brain_gcd():
     engine.greeting()
     player_name = engine.get_player_name()
 
-    print('Find the greatest commin divisor of given numbers.')
+    print('Find the greatest common divisor of given numbers.')
 
     engine.start_game(gcd, player_name)
