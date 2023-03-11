@@ -7,21 +7,21 @@
 ### Examples
 Brain even game
 
-[![asciicast](https://asciinema.org/a/RXyq0yKVzJo0LIA6Yy1Go4GQS.svg)](https://asciinema.org/a/RXyq0yKVzJo0LIA6Yy1Go4GQS)
+[![asciicast](https://asciinema.org/a/3rqCPYivLGETlcyY4Sfsy2pMo.svg)](https://asciinema.org/a/3rqCPYivLGETlcyY4Sfsy2pMo)
 
 Brain calc game
 
-[![asciicast](https://asciinema.org/a/gANXMyY8CeuZBwcqCWXicJdIw.svg)](https://asciinema.org/a/gANXMyY8CeuZBwcqCWXicJdIw)
+[![asciicast](https://asciinema.org/a/7lOaSbg8y7w4omUdJIDjeOEwG.svg)](https://asciinema.org/a/7lOaSbg8y7w4omUdJIDjeOEwG)
 
 Brain gcd game
 
-[![asciicast](https://asciinema.org/a/lDLrT8x55tbuwHqEIHuKoZ4Pp.svg)](https://asciinema.org/a/lDLrT8x55tbuwHqEIHuKoZ4Pp)
+[![asciicast](https://asciinema.org/a/o49plElSoumEo4xmnvw8JRNAp.svg)](https://asciinema.org/a/o49plElSoumEo4xmnvw8JRNAp)
 
 Brain progression game
 
-[![asciicast](https://asciinema.org/a/qpHRq2h7qNRVdbRSf4u7V3uUv.svg)](https://asciinema.org/a/qpHRq2h7qNRVdbRSf4u7V3uUv)
+[![asciicast](https://asciinema.org/a/zgY81PItaAdE2TJcXrnKsIrVi.svg)](https://asciinema.org/a/zgY81PItaAdE2TJcXrnKsIrVi)
 
 Brain prime game
 
-[![asciicast](https://asciinema.org/a/i6yHbSfKYsGO4aJzsmUhByjqm.svg)](https://asciinema.org/a/i6yHbSfKYsGO4aJzsmUhByjqm)
+[![asciicast](https://asciinema.org/a/8eYtEdjbqDtk0ycj9L3T2zyxb.svg)](https://asciinema.org/a/8eYtEdjbqDtk0ycj9L3T2zyxb)
 
